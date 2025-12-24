@@ -1,0 +1,17 @@
+<Window x:Class="SmoothTabTransition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Smooth Tab Transition" 
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ShowInTaskbar="False"
+        Topmost="True"
+        ResizeMode="NoResize"
+        WindowState="Minimized"
+        Width="1" Height="1"
+        Opacity="0">
+    <Grid>
+    </Grid>
+</Window>
+
