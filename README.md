@@ -19,5 +19,8 @@ A Windows application that provides a beautiful, smooth animated window switcher
 ## Images
 Setting :
 <img width="528" height="652" alt="123123ge" src="https://github.com/user-attachments/assets/3cb52419-1a86-4930-81fc-3c17fd5a938b" />
+
+
 How it looks with deafult settings : 
 <img width="1330" height="664" alt="123e" src="https://github.com/user-attachments/assets/36e6452b-1dd6-4a04-b307-082f1bb28a82" />
+
